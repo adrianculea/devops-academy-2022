@@ -12,4 +12,3 @@ A local Jenkins installation is needed, details are provided below:
 
 
 A free github.com account is recommended, we’ll use it to demonstrate the integration between Jenkins and Github
-![image](https://user-images.githubusercontent.com/46707924/196380298-af719af2-ef99-475c-9f96-7601d0b01f1f.png)
