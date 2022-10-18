@@ -12,3 +12,6 @@ A local Jenkins installation is needed, details are provided below:
 
 
 A free github.com account is recommended, we’ll use it to demonstrate the integration between Jenkins and Github
+
+
+Simulating localhost going through internet - NGROK https://ngrok.com/download
